@@ -12,9 +12,11 @@
 2012 aug  8, Contributing to CoffeeScript, http://www.meetup.com/Coffee-Script-New-York/events/73734572/ 
 2012 aug 13, NY GIS monthly meetup, http://www.meetup.com/nycgis/events/57313142/ 
 2012 aug 16, Dual geometries of high-dimensional data sets, http://www.meetup.com/NYC-Machine-Learning/events/75721162/
-2012 aug 24, Helping Hacks: The Goodnik Hackathon, http://www.meetup.com/goodnik/events/68033732/ 
+2012 m=aug & d>=20, Learn Spanish.
+2012 aug 24, Helping Hacks: The Goodnik Hackathon, http://www.meetup.com/goodnik/events/68033732/
 2012 & m=aug & (d=27 | d=29), HTML9ResponsiveBoilerstrapJS talk
 2012 & (m=aug & d>=30) | (m=sep & d=1), Hacks/Hackers Buenos Aires Hackathon Mediathon
+2012 m=sep & d <= 12, Learn Spanish in Argentina or Uruguay.
 2012 & m=sep & (d=7 | d=8 | d=9), DataKind New York
 2012 sep 14, DataGotham
 2012 sep 20, Human Ecology Design & Environmental Analysis Alumni/Student Reception, https://secure.www.alumniconnections.com/olc/pub/CEL/event/showEventForm.jsp?form_id=132278
