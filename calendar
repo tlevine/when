@@ -16,15 +16,15 @@
 2012 aug 21, Send the HTML9 talk to Nonsense
 2012 aug 21, Reply to Eva, Nic, Tim, Andrew, Samer, Annmarie, Kevin, Fade
 2012 aug 21, Email Jack based on the call.
-2012 aug 21, Back up the ~/.ekg2/logsqlite.db somewhere else, remove it from the dotfiles repository and set up ekg2 to run on boot inside a tmux or headlessly
-2012 aug 21, Send Dad information on flights and information on where I'll be in Buenos Aires
-2012 aug 21, Print out that Starbucks Google offer so I use it
+2012 aug 24, Back up the ~/.ekg2/logsqlite.db somewhere else, remove it from the dotfiles repository and set up ekg2 to run on boot inside a tmux or headlessly
+2012 aug 22, Send Dad information on flights and information on where I'll be in Buenos Aires
+2012 aug 22, Print out that Starbucks Google offer so I use it
 2012 aug 21, Remind Danco to take DEA 1110
 2012 aug 21, Remind Students for Free Culture to upload the constitution again
 2012 aug 21, Call Scott in case my emails aren't going through
 2012 aug 21, Reply to Isabel (AISL)
-2012 aug 21, Document/automate/facilitate git remotes with multiple urls
-2012 aug 21, Figure out where to store large binary files like images and sqlite databases
+2012 aug 23, Document/automate/facilitate git remotes with multiple urls
+2012 aug 23, Figure out where to store large binary files like images and sqlite databases
 2012 m=aug & ( d=16 | d=17 ), Make an Urchin website. Also ponder config-file parsing.
 2012 m=aug & d>=20, Learn Spanish.
 2012 m=aug & d>=20, Prepare the talk for the HH BA Media Party.
