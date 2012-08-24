@@ -17,11 +17,11 @@
 2012 aug 21, Reply to Eva, Samer
 2012 aug 24, Reply to Nic, Tim, Andrew
 2012 aug 24, Reply to Kevin, Fade
-2012 aug 23, Email Jack based on the call.
-2012 aug 24, Back up the ~/.ekg2/logsqlite.db somewhere else, remove it from the dotfiles repository and set up ekg2 to run on boot inside a tmux or headlessly
-2012 aug 23, Send Dad information on flights and information on where I'll be in Buenos Aires
+2012 aug 25, Email Jack based on the call.
+2012 aug 28, Back up the ~/.ekg2/logsqlite.db somewhere else, remove it from the dotfiles repository and set up ekg2 to run on boot inside a tmux or headlessly
+2012 aug 24, Send Dad information on flights and information on where I'll be in Buenos Aires
 2012 aug 22, Take stupid backups of old home directories. locate may be informative
-2012 aug 24, Print out that Starbucks Google offer so I use it
+2012 aug 25, Print out that Starbucks Google offer so I use it
 2012 aug 21, Remind Danco to take DEA 1110
 2012 aug 21, Remind Students for Free Culture to upload the constitution again
 2012 aug 22, csv soundsystem at 6:45 in Think Coffee
@@ -35,12 +35,16 @@
 2012 m=aug & d>=20, Learn Spanish.
 2012 m=aug & d>=20, Prepare the talk for the HH BA Media Party.
 2012 m=aug & (d=24 | d=25 | d=26), Helping Hacks: The Goodnik Hackathon http://helpinghacks.eventbrite.com/ http://www.meetup.com/goodnik/events/68033732/
+2012 aug 26, Prepare the HTML9ResponsiveBoilerstrapJS talk
+2012 aug 27, Prepare the HH BA keynote and workshop. Finish the keynote slides.
 2012 aug 27, HTML9ResponsiveBoilerstrapJS talk
+2012 aug 28, Finish preparing the HH BA workshop.
 2012 aug 28, 10:10 pm Flight from JFK to Buenos Aires
 2012 & (m=aug & d>=30) | (m=sep & d=1), Hacks/Hackers Buenos Aires Hackathon Mediathon
-2012 m=sep & d <= 12, Learn Spanish in Argentina or Uruguay.
+2012 m=sep & d <= 12, Learn Spanish
 2012 & m=sep & (d=7 | d=8 | d=9), DataKind New York
-2012 sep 13, Return from Buenos Aires
+2012 sep 13, Return from Buenos Aires around 6 am.
+2012 sep 13, DataGotham tutorials start at 3 pm.
 2012 sep 14, DataGotham
 2012 sep 20, Human Ecology Design & Environmental Analysis Alumni/Student Reception, https://secure.www.alumniconnections.com/olc/pub/CEL/event/showEventForm.jsp?form_id=132278
 2012 & m=sep & d>= 26, DataKind London
